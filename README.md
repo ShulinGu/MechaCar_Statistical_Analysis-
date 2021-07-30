@@ -20,6 +20,7 @@
   - The p-value for lot 3 is 0.04168 which is greater than 0.05. We reject the null hypothesis. 
   - ![image](https://user-images.githubusercontent.com/82785321/127721237-f399215b-c5c9-4dc6-af01-bea659039dfd.png)
  ## Study Design: MechaCar vs Competition
+ ### In order to compare the MechaCar performance against the competition, the metrics that might be interest to the consumer can be cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
   - 
 
 
