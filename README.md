@@ -21,7 +21,16 @@
   - ![image](https://user-images.githubusercontent.com/82785321/127721237-f399215b-c5c9-4dc6-af01-bea659039dfd.png)
  ## Study Design: MechaCar vs Competition
  ### In order to compare the MechaCar performance against the competition, the metrics that might be interest to the consumer can be cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-  - 
+  - Metrics to be tested:
+    - Dependent Variable: Cost
+    - Independent Variables: city, highway fuel efficiency, horse power, maintenance cost, and safety rating.
+  - Hypothesis:
+    - Null Hypothesis: The cost will not be affected by the independent variables.
+    - Alternative Hyphothesis: The cost will be affected by the independent variables.
+  - Statistical Test to be Used:
+    - A multiple linear regression can be used to test the hypothesis. This allows us to look at each independent variable and determine if there is a significant relationship with the dependent variable. And we can evaluate the r-squared value of the model to determine if the model sufficiently predicts our dependent variable.
+  - Data for Statistical Test:
+    - The data of cost, city, highway fuel efficiency, horse power, maintenance cost, and safety rating is needed.
 
 
 
